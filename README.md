@@ -5,24 +5,5 @@ Here I have projects ranging from React/TypeScript, C algorithm visualisations t
 
 https://www.linkedin.com/in/juan-md/
 
-<div class="terminal-element">
-<div class="bg-black text-white p-6 rounded-lg w-full max-w-lg font-mono">
-  <div class="flex justify-between items-center">
-    <div class="flex space-x-2 text-red-500">
-      <div class="w-3 h-3 rounded-full bg-red-500"></div>
-      <div class="w-3 h-3 rounded-full bg-yellow-500"></div>
-      <div class="w-3 h-3 rounded-full bg-green-500"></div>
-    </div>
-    <p class="text-sm">bash</p>
-  </div>
+<img width="777" height="324" alt="Screenshot 2026-08-12 at 16 15 23" src="https://github.com/user-attachments/assets/ba5a7689-8664-4a33-83cd-caaa687fbd27" />
 
-
-
-  <div class="mt-4">
-    <p class="text-green-400">jmd$ cd TechStack</p>
-    <p class="text-white">jmd$ ls</p>
-    <p class="text-white">jmd$ /Python /TypeScript /React /Node.js /C /Java /SQL /PyTorch /PostgreSQL  /Git</p>
-    <p class="text-green-400">$</p>
-  </div>
-</div>
-</div>
