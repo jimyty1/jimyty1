@@ -5,6 +5,7 @@ Here I have projects ranging from React/TypeScript, C algorithm visualisations t
 
 https://www.linkedin.com/in/juan-md/
 
+<div class="terminal-element">
 <aside class="bg-black text-white p-6 rounded-lg w-full max-w-lg font-mono">
   <div class="flex justify-between items-center">
     <div class="flex space-x-2 text-red-500">
@@ -24,3 +25,4 @@ https://www.linkedin.com/in/juan-md/
     <p class="text-green-400">$</p>
   </div>
 </aside>
+</div>
